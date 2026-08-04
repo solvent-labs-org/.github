@@ -1,4 +1,8 @@
-## Many models. One harness.
+## Solvent Labs
+
+An open, community-run lab building agent infrastructure in public. First project: **Orcha**.
+
+### Many models. One harness.
 
 Models are converging — the gap between the best of them is a few points and shrinking. The layer that plans, routes, verifies, and renders their work is where leverage lives, and we think that layer should be open, inspectable, and owned by the people who build on it.
 
@@ -7,6 +11,6 @@ Models are converging — the gap between the best of them is a few points and s
 - **[orcha](https://github.com/Solvent-metaorcha/orcha)** — the runtime: planner, verifier, protocol handlers, CanvasKit, SDK
 - **[orcha-landing](https://github.com/Solvent-metaorcha/orcha-landing)** — [metaorcha.ai](https://metaorcha.ai)
 
-Maintained by contributors, not a company. No waitlist, no black box — the repo, the spec, and the roadmap are the product. Commit rights are earned by contribution.
+Maintained by contributors, not a company. No waitlist, no black box — the repo, the spec, and the roadmap are the product. Commit rights are earned by contribution. More projects land here as the community builds them.
 
 **Get involved:** issues and PRs in the main repo · [Discord](https://discord.gg/26d9ytRTM) · [live sandbox](https://sandbox.metaorcha.ai)
