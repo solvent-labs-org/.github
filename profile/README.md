@@ -8,8 +8,8 @@ Models are converging — the gap between the best of them is a few points and s
 
 **Orcha** is an Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified multi-agent run out. MCP, A2A, and Computer-Use handlers ship today; the spec and SDK are open for yours.
 
-- **[orcha](https://github.com/Solvent-metaorcha/orcha)** — the runtime: planner, verifier, protocol handlers, CanvasKit, SDK
-- **[orcha-landing](https://github.com/Solvent-metaorcha/orcha-landing)** — [metaorcha.ai](https://metaorcha.ai)
+- **[orcha](https://github.com/solvent-labs-org/orcha)** — the runtime: planner, verifier, protocol handlers, CanvasKit, SDK
+- **[orcha-landing](https://github.com/solvent-labs-org/orcha-landing)** — [metaorcha.ai](https://metaorcha.ai)
 
 Maintained by contributors, not a company. No waitlist, no black box — the repo, the spec, and the roadmap are the product. Commit rights are earned by contribution. More projects land here as the community builds them.
 
