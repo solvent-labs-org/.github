@@ -1,16 +1,29 @@
 ## Solvent Labs
 
-An open, community-run lab building agent infrastructure in public. First project: **Orcha**.
+Agent infrastructure, built in public.
 
-### Many models. One harness.
+### Metaorcha
 
-Models are converging — the gap between the best of them is a few points and shrinking. The layer that plans, routes, verifies, and renders their work is where leverage lives, and we think that layer should be open, inspectable, and owned by the people who build on it.
+A run leaves a receipt anyone can check offline. Metaorcha is an Apache-2.0
+runtime for multi-protocol agent work (MCP, A2A, computer use) in which every run
+seals a signed record, and `orcha-sdk verify` checks it with no account and no
+call to us. → [metaorcha](https://github.com/solvent-labs-org/metaorcha) ·
+[metaorcha.ai](https://metaorcha.ai)
 
-**Orcha** is an Apache 2.0 runtime for multi-protocol agent orchestration: one goal in, a verified multi-agent run out. MCP, A2A, and Computer-Use handlers ship today; the spec and SDK are open for yours.
+### Timeline
 
-- **[orcha](https://github.com/solvent-labs-org/orcha)** — the runtime: planner, verifier, protocol handlers, CanvasKit, SDK
-- **[orcha-landing](https://github.com/solvent-labs-org/orcha-landing)** — [metaorcha.ai](https://metaorcha.ai)
+- **2026-01** — first commit of the prototype ([archive](https://github.com/solvent-labs-org/metaorcha-archive-2026h1))
+- **2026-06** — fresh start on a new codebase
+- **2026-07** — the public repo opens
+- **2026-08** — first releases; `orcha-sdk` on PyPI
+- **2026-09** — the RFC 0003 run record and offline verifier are public; the settle gate refuses on a signed fail
 
-Maintained by contributors, not a company. No waitlist, no black box — the repo, the spec, and the roadmap are the product. Commit rights are earned by contribution. More projects land here as the community builds them.
+### Repositories
 
-**Get involved:** issues and PRs in the main repo · [Discord](https://discord.gg/26d9ytRTM) · [live sandbox](https://sandbox.metaorcha.ai)
+- [metaorcha](https://github.com/solvent-labs-org/metaorcha) — the runtime, spec, verifier and SDK
+- [metaorcha-landing](https://github.com/solvent-labs-org/metaorcha-landing) — metaorcha.ai
+- [metaorcha-archive-2026h1](https://github.com/solvent-labs-org/metaorcha-archive-2026h1) — the January–May 2026 prototype, read-only
+
+### Get involved
+
+Issues and pull requests on the main repo · [Discord](https://discord.gg/26d9ytRTM)
